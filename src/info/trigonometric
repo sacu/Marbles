@@ -1,0 +1,73 @@
+
+诱导公式
+
+    sin和cos 的平方和 是1
+    sin(-a)=-sin(a)
+    cos(-a)=cos(a)
+    sin(pi/2-a)=cos(a)
+    cos(pi/2-a)=sin(a)
+    sin(pi/2+a)=cos(a)
+    cos(pi/2+a)=-sin(a)
+    sin(pi-a)=sin(a)
+    cos(pi-a)=-cos(a)
+    sin(pi+a)=-sin(a)
+    cos(pi+a)=-cos(a)
+    tgA=tanA=sinA/cosA
+
+两角和与差的三角函数
+
+    sin(a+b)=sin(a)cos(b)+cos(α)sin(b)
+    cos(a+b)=cos(a)cos(b)-sin(a)sin(b)
+    sin(a-b)=sin(a)cos(b)-cos(a)sin(b)
+    cos(a-b)=cos(a)cos(b)+sin(a)sin(b)
+    tan(a+b)=(tan(a)+tan(b))/(1-tan(a)tan(b))
+    tan(a-b)=(tan(a)-tan(b))/(1+tan(a)tan(b))
+
+三角函数和差化积公式
+
+    sin(a)+sin(b)=2sin((a+b)/2)cos((a-b)/2)
+    sin(a)?sin(b)=2cos((a+b)/2)sin((a-b)/2)
+    cos(a)+cos(b)=2cos((a+b)/2)cos((a-b)/2)
+    cos(a)-cos(b)=-2sin((a+b)/2)sin((a-b)/2)
+
+积化和差公式
+
+    sin(a)sin(b)=-1/2*[cos(a+b)-cos(a-b)]
+    cos(a)cos(b)=1/2*[cos(a+b)+cos(a-b)]
+    sin(a)cos(b)=1/2*[sin(a+b)+sin(a-b)]
+
+二倍角公式
+
+    sin(2a)=2sin(a)cos(a)
+    cos(2a)=cos^2(a)-sin^2(a)=2cos^2(a)-1=1-2sin^2(a)
+
+半角公式
+
+    sin^2(a/2)=(1-cos(a))/2
+    cos^2(a/2)=(1+cos(a))/2
+    tan(a/2)=(1-cos(a))/sin(a)=sin(a)/(1+cos(a))
+
+万能公式
+
+    sin(a)= (2tan(a/2))/(1+tan^2(a/2))
+    cos(a)= (1-tan^2(a/2))/(1+tan^2(a/2))
+    tan(a)= (2tan(a/2))/(1-tan^2(a/2))
+
+其它公式
+
+    a*sin(a)+b*cos(a)=sqrt(a^2+b^2)sin(a+c) [其中，tan(c)=b/a]
+    a*sin(a)-b*cos(a)=sqrt(a^2+b^2)cos(a-c) [其中，tan(c)=a/b]
+    1+sin(a)=(sin(a/2)+cos(a/2))^2
+    1-sin(a)=(sin(a/2)-cos(a/2))^2
+
+其他非重点三角函数
+
+    csc(a)=1/sin(a)
+    sec(a)=1/cos(a)
+
+双曲函数
+
+    sinh(a)=(e^a-e^(-a))/2
+    cosh(a)=(e^a+e^(-a))/2
+    tgh(a)=sinh(a)/cosh(a)
+
